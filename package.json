@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/scottcrowe/cypress-demo/issues"
   },
-  "homepage": "https://github.com/scottcrowe/cypress-demo#readme"
+  "homepage": "https://github.com/scottcrowe/cypress-demo#readme",
+  "devDependencies": {
+    "cypress": "^3.1.3"
+  }
 }
